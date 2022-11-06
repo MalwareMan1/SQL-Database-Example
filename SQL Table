@@ -1,0 +1,6 @@
+CREATE TABLE TEST (
+test_id int PRIMARY KEY AUTO_INCREMENT,
+my_name VARCHAR(30),
+your_name VARCHAR(30),
+next_date DATE,
+myjob_title VARCHAR(30));
